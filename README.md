@@ -37,9 +37,9 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: vanshvala23@example.com  
-- **LinkedIn**: [linkedin.com/in/vanshvala23](#)  
-- **Portfolio**: [vansh-vala.netlify.app](#)  
+- **Email**: vanshvala01@gmail.com  
+- **LinkedIn**: [linkedin.com/in/vansh-vala](#)  
+- **Portfolio**: [vansh-vala.netlify.app](vansh-vala.netlify.app)  
 
 ---
 

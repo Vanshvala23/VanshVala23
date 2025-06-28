@@ -51,3 +51,8 @@ Welcome to my GitHub profile! I'm passionate about coding, building innovative p
 ## ⚡ Fun Fact  
 - I believe **hard work** has no substitute, and there's always room for innovation!  
 - My favorite motto: *"If there is no struggle, there is no progress."*  
+
+
+
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=VanshVala)](https://codeforces.com/profile/VanshVala)

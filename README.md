@@ -58,7 +58,8 @@ Welcome to my GitHub! I'm a passionate developer who loves crafting code, buildi
 <!-- <img src="https://cf-stats-api.vercel.app/api?username=VanshVala" alt="Codeforces Stats" /> -->
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/VanshVala?ext=contest&ext=heatmap)](https://leetcode.com/u/vanshvala01/)
+[![LeetCode Profile](https://coding-profile.vercel.app/api/preview?username=vanshvala01)](https://coding-profile.vercel.app/)
+
 
 ---
 

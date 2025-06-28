@@ -50,9 +50,9 @@ Welcome to my GitHub! I'm a passionate developer who loves crafting code, buildi
 
 ---
 
-## 🏆 Codeforces Stats
+## 🏆 Codeforces 
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-VanshVala-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/VanshVala)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=VanshVala)
 
 <!-- Uncomment below for a dynamic card (note: may break on GitHub) -->
 <!-- <img src="https://cf-stats-api.vercel.app/api?username=VanshVala" alt="Codeforces Stats" /> -->

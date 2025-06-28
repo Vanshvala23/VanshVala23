@@ -1,70 +1,77 @@
 # 👋 Hi there! I'm **Vansh Vala**
 
-Welcome to my GitHub profile! I'm passionate about coding, building innovative projects, and collaborating with the developer community. Here's a little about me:
+Welcome to my GitHub! I'm a passionate developer who loves crafting code, building innovative solutions, and collaborating with creative minds.
 
 ---
 
-## 🔭 Current Focus  
-- 🚀 Working on [**VeNoM CLI**](#) — my own frontend framework  
-- 🛡️ Developing **Securo Serv** to streamline security processes for personal/business protection  
-- 🤖 Exploring exciting possibilities with AI in **TARS AI** and **VeNoM-CLI** projects  
+## 🔭 Current Projects
+- 🚀 **[VeNoM CLI](#)** – A blazing-fast custom frontend framework  
+- 🛡️ **Securo Serv** – Streamlining security for individuals & businesses  
+- 🤖 **TARS AI** – Experimenting with AI and automation tools  
 
 ---
 
-## 🌱 Learning & Growing  
-- Diving deeper into **TypeScript**, **Kotlin**, and **Machine Learning**  
-- Exploring advanced concepts in the **MEAN stack** and **Multi-Factor Authentication (MFA)**  
+## 🌱 Currently Learning
+- ⚙️ Advanced **TypeScript**, **Kotlin**, and **Machine Learning**  
+- 🧠 Deep dive into the **MEAN stack** & **Multi-Factor Authentication (MFA)**  
 
 ---
 
-## 👯 Collaboration Goals  
-- Looking to collaborate on open-source projects using **React.js**, **Node.js**, and **Electron.js**  
-- Eager to build the next-gen applications with creative minds!  
+## 🤝 Open to Collaborate On
+- 🚀 Open-source apps using **React.js**, **Node.js**, **Electron.js**  
+- 🌐 Scalable full-stack projects with intuitive UI/UX  
+- 💡 Innovative chat apps, game apps, or tooling projects  
 
 ---
 
-## 🤔 Looking for Help With  
-- Building frontend frameworks from scratch  
-- Scaling and optimizing projects like **TARS AI** and **VeNoM CLI**  
+## 🙋‍♂️ Looking for Help With
+- 💻 Building frontend frameworks from scratch  
+- ⚙️ Performance optimization & scaling for **TARS AI** and **VeNoM CLI**
 
 ---
 
-## 💬 Ask Me About  
-- Full-stack development using **React.js**, **Node.js**, and **MySQL**  
-- UI/UX-focused development and **intuitive design systems**  
-- Building **chat & game apps** with **Electron.js**  
+## 💬 Ask Me About
+- Full-stack development (**React.js**, **Node.js**, **MySQL**)  
+- UI/UX design systems & developer-first architecture  
+- Electron.js apps (real-time, chat, games, utilities)
 
 ---
 
-## 🛠️ Languages & Tools  
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🛠️ Tech Stack & Tools
+
+![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 🏆 Codeforces Stats  
-[<img src="https://cf-leaderboard-api.vercel.app/api/profile?handle=VanshVala&theme=dark" />](https://codeforces.com/profile/VanshVala)
+## 🏆 Codeforces Stats
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-VanshVala-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/VanshVala)
+
+<!-- Uncomment below for a dynamic card (note: may break on GitHub) -->
+<!-- <img src="https://cf-stats-api.vercel.app/api?username=VanshVala" alt="Codeforces Stats" /> -->
 
 ---
 
-## 📫 Let's Connect!  
-- **Email**: vanshvala01@gmail.com  
-- **LinkedIn**: [linkedin.com/in/vansh-vala](https://linkedin.com/in/vansh-vala)  
-- **Portfolio**: [vansh-vala.netlify.app](https://vansh-vala.netlify.app)  
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-vala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=netlify&logoColor=white)](https://vansh-vala.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-vanshvala01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vanshvala01@gmail.com)
 
 ---
 
-## 😄 Pronouns  
-- He/Him  
+## 😄 Pronouns
+- He/Him
 
 ---
 
-## ⚡ Fun Fact  
-> "If there is no struggle, there is no progress."  
-I believe **hard work** has no substitute, and there’s always room for innovation. 💡
+## ⚡ Fun Fact
+> “If there is no struggle, there is no progress.”  
+I believe that **hard work always pays off**, and there's always room to innovate! 💡

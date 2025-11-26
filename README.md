@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a passionate developer who loves crafting code, buildi
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ToTo__&theme=synthwave&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ToTo__)
 
 <!-- Uncomment below for a dynamic card (note: may break on GitHub) -->
-<!-- <img src="https://cf-stats-api.vercel.app/api?username=VanshVala" alt="Codeforces Stats" /> -->
+<!-- <img src="https://cf-stats-api.vercel.app/api?username=Vansh_Vala" alt="Codeforces Stats" /> -->
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vanshvala01?theme=nord)

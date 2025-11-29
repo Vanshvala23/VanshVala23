@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a passionate developer who loves crafting code, buildi
 
 ## 🏆 Competitive coding
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ToTo__&theme=synthwave&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ToTo__)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Vansh_Vala&theme=synthwave&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Vansh_Vala)
 
 <!-- Uncomment below for a dynamic card (note: may break on GitHub) -->
 <!-- <img src="https://cf-stats-api.vercel.app/api?username=Vansh_Vala" alt="Codeforces Stats" /> -->

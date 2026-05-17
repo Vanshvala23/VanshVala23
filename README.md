@@ -60,6 +60,9 @@ Welcome to my GitHub! I'm a passionate developer who loves crafting code, buildi
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vanshvala01?theme=nord)
 
+
+[![iwbc_mzk's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/Vansh_Vala?theme=darcula&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vanshvala23&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
